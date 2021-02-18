@@ -1,0 +1,43 @@
+button {
+ background: #f2f6f8; /* Цвет фона */
+ border: 1px solid #7a7b7e; /* Параметры рамки */
+ width: 120px; /* Ширина кнопки */
+ max-width: 150px;
+ height: 30px; /* Высота */
+ border-radius: 30px;
+ background: #4e82db;
+ color:  rgb(235, 226, 231);
+ margin-left:  10px;
+ margin-right:  10px;
+ vertical-align: middle;
+    }
+ button:hover {
+   border: 2px solid black; /* Параметры рамки */
+ }
+ div {
+   text-align:center;
+ }
+.main{
+  display: block;
+  width: 780px;
+  padding: 30px 50px 50px 50px;
+  background: #f7e6b3;
+  border: 10px solid #fc3;
+  outline-offset:-10px;
+          }
+  .question_div {
+    border: 1px solid black;
+    border-radius: 20px;
+    width: 550px;
+    margin: 30px auto;
+
+  }
+.header{
+  width: 800px;
+  padding: 50px;
+  background: #fc3;
+  color:  rgb(53, 75, 222);
+  font-family: Geneva, Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  /* border: 1px solid grey; */
+}
